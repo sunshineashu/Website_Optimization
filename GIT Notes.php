@@ -49,3 +49,9 @@ It compares  working directoy with staging area (check given and compare with it
 
 ## If we wan to add file directly into commit without sending in staging area :
 git commit -a -m "Adding without passing in staging area"
+
+
+## If we created any file by mistake and also added to staginhga then commited it also if we want to remove it 
+git rm filename => it will remove from staging area as well as form our harddisk
+=> But if we wnat tyo remove only from stgaing area and keep in harddisk
+git  rm --cached filename
