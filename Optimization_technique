@@ -1,0 +1,18 @@
+##How to do Magento 2 performance optimization ?
+Magento 2 is a pretty complex application. If you did not configure it correctly you will find it very slow. To do performance optimization, I am adding some pointers here as follows.
+
+1.Image optimization and lazy loading
+2.JavaScript optimization
+3.Font Optimization
+4.CSS optimization
+5.Caching techniques
+6.Server optimization
+7.Latest version of everything
+8.Light Weight theme
+9.Production mode
+10.Database optimization
+11.Code optimization
+12.Disable non required module
+13Latest protocol http2
+14.Using Facade pattern for chat loader
+15.Serving static data from non cookie domain
